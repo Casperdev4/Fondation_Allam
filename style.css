@@ -2071,6 +2071,9 @@ img {
 
     .hero {
         margin-top: 102px;
+        height: auto;
+        min-height: 580px;
+        padding: 40px 0;
     }
 
     .nav {
@@ -2370,6 +2373,7 @@ img {
 
     .hero {
         margin-top: 92px;
+        min-height: 510px;
     }
 
     .footer-logo-img {
