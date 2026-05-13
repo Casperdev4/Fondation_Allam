@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://association-firdaws.fr/sitemap.xml
+Sitemap: https://fondation-allam.fr/sitemap.xml
